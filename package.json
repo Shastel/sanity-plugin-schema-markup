@@ -124,7 +124,7 @@
   },
   "peerDependencies": {
     "react": "^18",
-    "sanity": "^3"
+    "sanity": "^3 || ^4"
   },
   "engines": {
     "node": ">=14"
